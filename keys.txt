@@ -1,0 +1,6 @@
+$env:MONGODB_URL="mongodb+srv://bunnyluzy:Captainhk15@cluster0.2zsexn6.mongodb.net/?appName=Cluster0"
+
+
+$env:AWS_ACCESS_KEY_ID="AKIAYWXJVEPJ7ZBCGMVY"
+
+$env:AWS_SECRET_ACCESS_KEY="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"
